@@ -1,3 +1,8 @@
+# Copyright © 2018 Daniel Hildebrandt <daniel.s.hildebrandt@gmail.com>
+# This work is free. You can redistribute it and/or modify it under the terms of
+# the Do What The Fuck You Want To Public License, Version 2, as published by
+# Sam Hocevar. See the LICENSE.txt file for more details.
+
 from random import random
 from random import seed
 from re import compile
