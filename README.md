@@ -7,3 +7,5 @@ By default, `to_spongecase` returns a string with an approximate 50/50 distribut
 When running `spongebob_case.py` at the console, the text to be converted can be proceeded by the long-form option `--cap-chance=###%` or `--lower-chance=###%`, where `###` is a number from 0 to 100, optionally padded with arbitrarily many zeroes. This controls the capitalization distribution, and one is merely the inverse of the other. Note that if a typo is made in the option text, it will be considered part of the sentence and the default 50% distribution will be used.
 
 See also: **[Know Your Meme: Mocking Spongebob](http://knowyourmeme.com/memes/mocking-spongebob)**
+
+![memEs aRen't a SeRious SubjECt](./memEs aRen't a SeRious SubjECt.jpg)
