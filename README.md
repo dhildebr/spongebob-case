@@ -8,4 +8,4 @@ When running `spongebob_case.py` at the console, the text to be converted can be
 
 See also: **[Know Your Meme: Mocking Spongebob](http://knowyourmeme.com/memes/mocking-spongebob)**
 
-![](./memEs aRen't a SeRious SubjECt.jpg)
+![memEs aRen't a SeRious SubjECt](memEs aRen't a SeRious SubjECt.jpg)
