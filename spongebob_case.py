@@ -19,7 +19,7 @@ def to_spongecase(orig, cap_chance = 0.5):
   as though it had been clamped to the bounds. If no capitalization
   chance is given, it defaults to 50%.
   
-  See alse: http://knowyourmeme.com/memes/mocking-spongebob
+  See also: http://knowyourmeme.com/memes/mocking-spongebob
   
   PARAM orig :: the original string, to be converted into sponge-caps
   PARAM cap_chance :: the percentage chance that any give letter will
